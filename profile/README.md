@@ -2,7 +2,6 @@
 
 ### Tabletop SNSV Demonstration
 
-|----------------------|
 | coincidence_LMFIT    |
 | most of Denis's code |
 
