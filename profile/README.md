@@ -3,11 +3,16 @@
 | LinoSPAD2 Fast Spectrometer |    |   | Colored Mach-Zehnder Interferometer |    |
 |-----------------------------|:---|---|-------------------------------------|:---|
 | [LinoSPAD2app](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2app) | Sergei Kulkov | | [MachZhenderInterferometer](https://github.com/BNL-Quantum-Astrometry/MachZhenderInterferometer) | Evan Klein |
+| [LinoSPAD2](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2) | Sergei Kulkov | | [quTAG_scripts_MZI](https://github.com/BNL-Quantum-Astrometry/quTAG_scripts_MZI) | Evan Klein |
+| Coincidence Analysis Library | Joe Ferrantini | | [Colored_Mach-Zehnder](https://github.com/BNL-Quantum-Astrometry/Colored_Mach-Zehnder) | Trevor Donovan |
 
-| Tabletop SNSV Demonstration |        | LinoSPAD2 Fast Spectrometer |
-|-----------------------------|   ---     |--------|
-| coincidence_LMFIT           |        |Sergei's app and code |
-| most of Denis's code        |        |Joe's code |
+| Tabletop SNSV Demonstration |    |   | First-Order Adaptive Optics |    |
+|-----------------------------|:---|---|-----------------------------|:---|
+| [quTAG_scripts](https://github.com/BNL-Quantum-Astrometry/quTAG_scripts) | Denis Dolzhenko | | [Adaptive-Optics-Analysis](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis) | Owen Leonard |
+| [coincidence_timestamp_qutag](https://github.com/BNL-Quantum-Astrometry/coincidence_timestamp_qutag) | Denis Dolzhenko | | [Adaptive-Optics-Analysis-v2](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis-v2) | Alex Gleason |
+| [coincidence-LMFIT](https://github.com/BNL-Quantum-Astrometry/coincidence-LMFIT) | Aaron Mueninghoff | | [Anyloop*](https://github.com/cdqp/anyloop) | Ivy Huang |
+
+*Links to a repository outside this organization.
 
 ### LinoSPAD2 Fast Spectrometer
 
