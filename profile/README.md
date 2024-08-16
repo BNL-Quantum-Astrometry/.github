@@ -8,7 +8,7 @@
 
 
 | Tabletop SNSV Demonstration |    |   | First-Order Adaptive Optics |    |
-|-----------------------------|:---|---|-----------------------------|:---|
+|:---------------------------:|:---|---|:---------------------------:|:---|
 | [quTAG_scripts](https://github.com/BNL-Quantum-Astrometry/quTAG_scripts) | Denis Dolzhenko | | [Adaptive-Optics-Analysis](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis) | Owen Leonard |
 | [coincidence_timestamp_qutag](https://github.com/BNL-Quantum-Astrometry/coincidence_timestamp_qutag) | Denis Dolzhenko | | [Adaptive-Optics-Analysis-v2](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis-v2) | Alex Gleason |
 | [quTagPairLib](https://github.com/BNL-Quantum-Astrometry/quTagPairLib) | Denis Dolzhenko | | [Anyloop*](https://github.com/cdqp/anyloop) | Ivy Huang |
@@ -16,7 +16,7 @@
 
 
 | Other Miscellaneous Repositories |    |
-|----------------------------------|:---|
+|:--------------------------------:|:---|
 | [Tpics3](https://github.com/BNL-Quantum-Astrometry/TPics3) | Denis Dolzhenko |
 | [Tpx3_old](https://github.com/BNL-Quantum-Astrometry/Tpx3_old) | Sergei Kulkov |
 | [Ghost_imaging_parser](https://github.com/BNL-Quantum-Astrometry/Ghost_imaging_parser) | Denis Dolzhenko |
