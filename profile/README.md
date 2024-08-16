@@ -10,21 +10,14 @@
 |-----------------------------|:---|---|-----------------------------|:---|
 | [quTAG_scripts](https://github.com/BNL-Quantum-Astrometry/quTAG_scripts) | Denis Dolzhenko | | [Adaptive-Optics-Analysis](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis) | Owen Leonard |
 | [coincidence_timestamp_qutag](https://github.com/BNL-Quantum-Astrometry/coincidence_timestamp_qutag) | Denis Dolzhenko | | [Adaptive-Optics-Analysis-v2](https://github.com/BNL-Quantum-Astrometry/Adaptive-Optics-Analysis-v2) | Alex Gleason |
-| [coincidence-LMFIT](https://github.com/BNL-Quantum-Astrometry/coincidence-LMFIT) | Aaron Mueninghoff | | [Anyloop*](https://github.com/cdqp/anyloop) | Ivy Huang |
+| [quTagPairLib](https://github.com/BNL-Quantum-Astrometry/quTagPairLib) | Denis Dolzhenko | | [Anyloop*](https://github.com/cdqp/anyloop) | Ivy Huang |
+| [coincidence-LMFIT](https://github.com/BNL-Quantum-Astrometry/coincidence-LMFIT) | Aaron Mueninghoff | | | |
 
 *Links to a repository outside this organization.
 
-### LinoSPAD2 Fast Spectrometer
-
-| Sergei's app and code |
-| Joe's code            |
-
-### Colored Mach-Zehnder Interferometer
-
-| Evan's code   |
-| Trevor's code |
-
-### First-Order Adaptive Optics Testbed
-
-| Owen's code |
-| Alex's code |
+| Other Miscellaneous Repositories |    |
+|----------------------------------|:---|
+| [Tpics3](https://github.com/BNL-Quantum-Astrometry/TPics3) | Denis Dolzhenko |
+| [Tpx3_old](https://github.com/BNL-Quantum-Astrometry/Tpx3_old) | Sergei Kulkov |
+| [Ghost_imaging_parser](https://github.com/BNL-Quantum-Astrometry/Ghost_imaging_parser) | Denis Dolzhenko |
+| [Ghost_Imaging_Scripts](https://github.com/BNL-Quantum-Astrometry/Ghost_Imaging_Scripts) | Denis Dolzhenko |
