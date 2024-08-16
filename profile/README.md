@@ -1,7 +1,7 @@
 ### The Quantum Astrometry project at Brookhaven National Laboratory seeks to usher in a new era of optical interferometry with very long baselines by removing the requirement of an optical link between the telescopes of an interferometer. Learn more about our project on [our website](https://www.quantastro.bnl.gov).
 
 | Tabletop SNSV Demonstration |        | LinoSPAD2 Fast Spectrometer |
-|-----------------------------|        |--------|
+|-----------------------------|   ---     |--------|
 | coincidence_LMFIT           |        |Sergei's app and code |
 | most of Denis's code        |        |Joe's code |
 
