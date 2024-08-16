@@ -1,8 +1,8 @@
 ### The Quantum Astrometry project at Brookhaven National Laboratory seeks to usher in a new era of optical interferometry with very long baselines by removing the requirement of an optical link between the telescopes of an interferometer. Learn more about our project on [our website](https://www.quantastro.bnl.gov).
 
-|    | LinoSPAD2 Fast Spectrometer |                                    |    | Colored Mach-Zehnder Interferometer |
-|:---|-----------------------------|---|:---|-------------------------------------|
-| Sergei Kulkov | [LinoSPAD2app](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2app) | | Evan Klein | [MachZhenderInterferometer](https://github.com/BNL-Quantum-Astrometry/MachZhenderInterferometer) |
+| LinoSPAD2 Fast Spectrometer |    |   | Colored Mach-Zehnder Interferometer |    |
+|-----------------------------|:---|---|-------------------------------------|:---|
+| [LinoSPAD2app](https://github.com/BNL-Quantum-Astrometry/LinoSPAD2app) | Sergei Kulkov | | [MachZhenderInterferometer](https://github.com/BNL-Quantum-Astrometry/MachZhenderInterferometer) | Evan Klein |
 
 | Tabletop SNSV Demonstration |        | LinoSPAD2 Fast Spectrometer |
 |-----------------------------|   ---     |--------|
